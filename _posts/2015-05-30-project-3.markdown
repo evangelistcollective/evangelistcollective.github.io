@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2015-05-30
+img: noun_137171_cc.png
+alt: image-alt
+project-date: May 2015
+category: Community Building, Web Development
+description: Today we build a webpage. And all was well with the world.
+
+---

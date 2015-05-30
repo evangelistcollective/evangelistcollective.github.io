@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-17
+img: noun_21549_cc.png
+alt: image-alt
+project-date: July 2014
+category: Community Building
+description: We launched here
+
+---
