@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2015-03-27
+img: noun_53009_cc.png
+alt: image-alt
+project-date: May 2015
+category: Community Building, Web Development
+description: Today we build a <a href="https://github.com/evangelistcollective/getting-started/blob/master/CodeOfConduct.md">Code of Conduct</a>. And all was well with the world.
+
+---
