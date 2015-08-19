@@ -34,11 +34,12 @@ social:
 address:
   - line: The closest airport to
   - line: San Francisco, CA (Mary)
-  - line: Denver, CO (Dave)
+  - line: Arlington, Tx (Dave)
   - line: Boston, MA (Matt)
+  - line: Boston, MA (Florian)
 
 # Credits content
-credits: 'Our collective is an inclusive thought experiment started by Dave Josephson. This site is build by <a href="https://twitter.com/mjbrender">Matt Brender</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is build by <a href="https://twitter.com/mjbrender">Matt Brender</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
