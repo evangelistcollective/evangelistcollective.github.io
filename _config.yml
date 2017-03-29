@@ -27,19 +27,20 @@ social:
   - title: github
     url: http://github.com/evangelistcollective
   - title: twitter
-    url: https://twitter.com/mjbrender/lists/wade
+    url: https://twitter.com/pinkyswearing/lists/developer-evangelists
 
 
 # Postal address (add as many lines as necessary)
 address:
   - line: The closest airport to
-  - line: San Francisco, CA (Mary)
-  - line: Arlington, Tx (Dave)
-  - line: Boston, MA (Matt)
-  - line: Boston, MA (Florian)
+  - line: San Francisco, CA (<a href="https://twitter.com/mary_grace">Mary</a>, <a href="https://twitter.com/karishannon">Shannon</a>)
+  - line: Austin, TX (<a href="https://twitter.com/ashleymcnamara">Ashley</a>)
+  - line: Portland, OR (<a href="https://twitter.com/meg_hartley">Meg</a>, <a href="https://twitter.com/mbbroberg">Matt</a>)
+  - line: Boston, MA (<a href="https://twitter.com/jonasrosland">Jonas</a>)
+  - line: New York, NY (<a href="https://twitter.com/pinkyswearing">Laura</a>)
 
 # Credits content
-credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is build by <a href="https://twitter.com/mjbrender">Matt Brender</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is build by <a href="https://twitter.com/mbbroberg">Matt Broberg</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

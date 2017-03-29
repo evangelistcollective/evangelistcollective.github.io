@@ -5,7 +5,7 @@ The Evangelist Collective is a collaborative effort of friendly people who want 
 
 ## Contributing
 
-Pull Requests are more than welcome as we coordinate efforts. Here are a few notes to help you along.
+Pull Requests are more than welcome as we coordinate efforts. Here are a few notes to help you along the way.
 
 ### Editing The Site
 
@@ -15,16 +15,16 @@ For example, this section from `_layouts/default.html`:
 
      {% include portfolio_grid.html %}
 
-Loads the content defined in `_includes/css/portfolio_grid.html`. Which is pretty nifty. You can edit our site without knowing more than a little HTML. 
+Loads the content defined in `_includes/css/portfolio_grid.html`. Which is pretty nifty. You can edit our site without knowing more than a little HTML.
 
-Other things you'll want to know: 
+Other things you'll want to know:
 
 * Our fonts are loaded from `head.html`
 * The description under our logo is from `header.html`
 * The About section loads from `about.html`
 
-The portfolio is a little tricky: images are automatically loaded from the `img/portfolio` folder. The page that loads is in `_posts`. The mapping of image to post happens in the `_posts` markdown. This all renders thanks to the `modals.html` file which I haven't found a good reason to want to edit. 
+The portfolio is a little tricky: images are automatically loaded from the `img/portfolio` folder. The page that loads is in `_posts`. The mapping of image to post happens in the `_posts` markdown. This all renders thanks to the `modals.html` file which I haven't found a good reason to want to edit.
 
-## Credits 
+## Credits
 
-We rock a [MIT License]([LICENSE]). The Jekyll theme is [Freelancer](http://jekyllthemes.org/themes/freelancer/) and icons are from designers on [The Noun Project](http://thenounproject.com). [Matt Brender](http://github.com/mjbrender) made the site.
+We rock a [MIT License]([LICENSE]). The Jekyll theme is [Freelancer](http://jekyllthemes.org/themes/freelancer/) and icons are from designers on [The Noun Project](http://thenounproject.com). [Matt Broberg](http://github.com/mbbroberg) made the site.
