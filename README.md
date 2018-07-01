@@ -27,4 +27,4 @@ The portfolio is a little tricky: images are automatically loaded from the `img/
 
 ## Credits
 
-We rock a [MIT License]([LICENSE]). The Jekyll theme is [Freelancer](http://jekyllthemes.org/themes/freelancer/) and icons are from designers on [The Noun Project](http://thenounproject.com). [Matt Broberg](http://github.com/mbbroberg) made the site.
+We rock a [MIT License](https://opensource.org/licenses/MIT). The Jekyll theme is [Freelancer](http://jekyllthemes.org/themes/freelancer/) and icons are from designers on [The Noun Project](http://thenounproject.com). [Matt Broberg](http://github.com/mbbroberg) made the site.
