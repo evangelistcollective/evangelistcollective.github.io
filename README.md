@@ -1,7 +1,7 @@
-# evangelistcollective.github.io
-Evangelist Collective Homepage
+# devrelcollective.github.io
+DevRel Collective Homepage
 
-The Evangelist Collective is a collaborative effort of friendly people who want to empower each other to build a stronger, more inclusive community. For the full schpeel, [read about the project](https://github.com/evangelistcollective/getting-started).
+The DevRel Collective is a collaborative effort of friendly people who want to empower each other to build a stronger, more inclusive community. For the full schpeel, [read about the project](https://github.com/devrelcollective/getting-started).
 
 ## Contributing
 
