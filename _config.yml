@@ -45,3 +45,7 @@ credits: 'Our collective is an inclusive thought experiment started by Dave Jose
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# plugins
+plugins:
+  - jekyll-redirect-from
