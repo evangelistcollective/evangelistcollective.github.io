@@ -47,5 +47,4 @@ markdown: kramdown
 permalink: pretty
 
 # plugins
-plugins:
-  - jekyll-redirect-from
+#plugins:
