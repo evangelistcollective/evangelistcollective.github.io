@@ -1,3 +1,4 @@
+# So you're devrel curious 
 If you asked 5 developer-advocados to define their profession, you would get at
 least 12 different answers, and at least 27 of those would be mutually
 exclusive to the other 106. So if you're looking for a place to ask devrel
@@ -21,7 +22,7 @@ except...
 computer programmers. In fact, starting from scratch, it takes a typical
 engineer about 2 hours to learn to use your tool. 
 
-So how do you get engineers to use it?
+## So how do you get engineers to use it?
 
 You might think to yourself _hey, my tool is so amazing, it will go viral_, so
 you throw it on hackernews and wait for the money to roll in. This will
@@ -69,13 +70,16 @@ always try to fix cultural problems with tools, thereby giving the tools a bad
 name. Unless they're culture-consultants, in which case they mostly just fire
 people.
 
+## Engineers react to authenticity and nothing else
+
 Here's the thing -- and I grant you this is a hard truth to accept -- no matter
 how good your product is, no matter how many in-the-trenches people it could
 help, no matter how good your intentions, you can't go from zero to adoption in
 today's tech market without doing inhuman things and becoming in the process a
 blood-sucking, soul-devouring demon. Literally the harder you try to directly
-make engineers use your product, the more damage to the world you will do.
-It is a linear relationship.  If you don't believe me, ask Elon Musk.
+make engineers use your product, the more you will merely damage your own
+reputation.  It is a linear relationship.  If you don't believe me, ask Elon
+Musk.
 
 The reality today is that adoption takes investment. It takes investment in
 community to build actual, beneficial rapport with your prospective customer
@@ -105,6 +109,8 @@ Finally, you need people to write quickstart apps, develop libraries and
 ESPECIALLY to illicit and capture feedback from real, in-the-trenches engineers
 who are trying to use your product, to make it as easy as possible for everyone
 who tries your product to have a successful experience.
+
+## Yep, that's pretty much devrel
 
 Like a good psychic cold-read, every dev-advocate exists within the paragraphs
 I've written above and yet no two are alike. Some are world-class programmers
