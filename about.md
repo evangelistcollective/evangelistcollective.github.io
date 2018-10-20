@@ -1,3 +1,8 @@
+---
+title: about
+layout: post
+---
+
 ## Why WADE?
 WADE was created to be a side-channel for technical advocates, evangelists and
 organizers. Generally, we aim to be a place you could go with questions like:
@@ -21,16 +26,16 @@ WADE is practitioners figuring out what their own roles mean or how to navigate
 making them work in a new place.  What are your quarterly goals as a developer
 evangelist? How much do you travel as an advocate?  What is your corporate
 conference strategy (booths and sponsored talks? or CFP's and prayers?), to
-what extent to you copy-edit your blog content, etc..etc... 
+what extent to you copy-edit your blog content, etc..etc...
 
-## Who can Join? 
+## Who can Join?
 Our members are generally professionals with the words 'community', 'advocate',
 or 'evangelist' in their titles. Organizationally, we usually fall someplace
 beneath "Product" on the org chart. Right now looking at the active membership,
 we consist mostly of community and event organizers. Many of our members have a
 different day job, but organize conferences and/or meetups on the side. We have
 several others who are students or who do something else professionally and are
-trying to decide if they're interested in switching roles. 
+trying to decide if they're interested in switching roles.
 
 One thing we have in common is that we orbit software engineering, and directly
 interact with software engineers on a regular basis. We organize events for
@@ -71,4 +76,4 @@ believe that we can help each other, send us an invite request and talk to us.
 ## Welcome!
 I guess the TLDR; is that WADE is a place where community, event, and advocacy
 people can learn from each other, network, and grow.  If that sounds
-interesting to you, we'd love to have you join us! 
+interesting to you, we'd love to have you join us!
