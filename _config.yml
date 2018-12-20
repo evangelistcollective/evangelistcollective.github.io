@@ -47,5 +47,8 @@ credits: 'Our collective is an inclusive thought experiment started by Dave Jose
 markdown: kramdown
 permalink: pretty
 
+# Google services
+google_analytics: UA-113313834-3
+
 # plugins
 #plugins:
