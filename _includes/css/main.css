@@ -364,7 +364,7 @@ footer .footer-below {
     outline: 0;
 }
 
-.btn .responsive {
+.btn.responsive {
     overflow: hidden;
     text-overflow: ellipsis;
     width: 100%;
