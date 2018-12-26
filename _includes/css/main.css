@@ -364,6 +364,12 @@ footer .footer-below {
     outline: 0;
 }
 
+.btn.responsive {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+}
+
 .scroll-top {
     z-index: 1049;
     position: fixed;
