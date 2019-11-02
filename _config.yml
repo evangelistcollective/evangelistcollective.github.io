@@ -33,12 +33,11 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: The closest airport to
-  - line: San Francisco, CA (<a href="https://twitter.com/mary_grace">Mary</a>)
-  - line: Minneapolis, MN (<a href="https://twitter.com/mbbroberg">Matt</a>)
-  - line: Wherever (<a href="https://twitter.com/DaveJosephsen">Dave</a>) is
   - line: San Francisco, CA (<a href="https://twitter.com/karissapeth">Karissa</a>)
   - line: Kansas City, KS (<a href="https://twitter.com/IAmJerdog">Jeremy</a>)
   - line: Buffalo, NY (<a href="https://twitter.com/QuintessenceAnx">Quintessence</a>)
+  - line: Chicago, IL (<a href="https://twitter.com/mattstratton">Matt</a>)
+  - line: Raleigh, NC (<a href="https://twitter.com/davidgsIoT">David</a>)
 
 # Credits content
 credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is build by <a href="https://twitter.com/mbbroberg">Matt Broberg</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
