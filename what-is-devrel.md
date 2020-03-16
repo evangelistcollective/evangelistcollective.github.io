@@ -1,7 +1,13 @@
-# So you're devrel curious 
+---
+title: "What is DevRel?"
+layout: post
+---
+
+## So you're devrel curious
+
 If you asked 5 developer-advocates to define their profession, you would get at
 least 12 different answers. So if you're looking for a place to ask devrel
-people about devrel, maybe don't. 
+people about devrel, maybe don't.
 
 Instead, imagine for a moment that you've created a legitimately, objectively
 fantastic unicorn of a productivity tool for people who make software. Using
@@ -32,7 +38,7 @@ brothers. Your sales manager then proceeds spend a LOT of money on a billboard,
 and then even more incentivizing his college buddies to do extremely
 questionable things like cold-calling tech companies, pouncing on people like
 jungle cats from the shadow of a booth at tech conferences, and "wining and
-dining" corrupt VP's who will force their underlings to use your tool. 
+dining" corrupt VP's who will force their underlings to use your tool.
 
 The problem here is that you can't "sell" something you don't understand to
 engineers, anymore than you can "sell" lettuce to alligators.  
@@ -47,7 +53,7 @@ leaving literally hundreds of thousands of confounded bizdev programmers in
 business casual kaki-slacks, completely ignorant of how to operate their own
 computers anymore. And so of course they all immediately reformat your shit off
 their hard-drives and complain about you on twitter while lying to their
-managers about the tool still being installed. 
+managers about the tool still being installed.
 
 The problem here is that consultants always try to fix cultural problems with
 tools, thereby giving the tools a bad name. Unless they're culture-consultants,
@@ -76,17 +82,17 @@ software and operations engineering. People who empathize with the needs of the
 people who need your tool. You need programmers who can contribute and maintain
 open source projects that relate to your tool. You need tech-savvy storytellers
 who can translate your engineering endeavors into a story that can be told at
-the podium at engineering conferences, and on tech blogs. 
+the podium at engineering conferences, and on tech blogs.
 
 You need to engage with the people who are interested in finding tools like
-yours -- people who will become your advocate within their organization. 
+yours -- people who will become your advocate within their organization.
 
 Speaking of organization, you need community builders who can organize meetups,
 and hackathons -- who can nurture and grow your user community while managing
 poisonous personalities and human conflicts -- who can guide you in the savvy
 sponsorship of community events -- who can tirelessly perform the _constant
 uphill slog_ of keeping your social media and marketing voice authentic and
-human. 
+human.
 
 Finally, you need people to write quickstart apps, develop libraries and
 ESPECIALLY to illicit and capture feedback from real, in-the-trenches engineers
@@ -108,6 +114,6 @@ Anyway, that's pretty much the job. If you've gotten this far and you're still
 glad you asked, DevRel is probably for you, and bonus, it's a great time to to
 be looking for DevRel opportunities! Below you'll find links to more reading
 and resources to help you join us in our awesome but somewhat confusing
-endeavors. 
+endeavors.
 
 Welcome aboard!
