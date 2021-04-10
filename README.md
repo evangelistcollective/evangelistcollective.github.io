@@ -1,3 +1,4 @@
+**Note: This is the old site**
 # devrelcollective.github.io
 DevRel Collective Homepage
 
