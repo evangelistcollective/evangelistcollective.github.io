@@ -1,14 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>{{ .Params.Title | default "Title" }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="{{ "assets/css/main.css" | absURL }}"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/5.1.1/bootstrap-social.css" />
+    <!-- link rel="stylesheet" href="{{ "assets/css/bootstrap-responsive.css" | absURL }}" / -->
     <noscript><link rel="stylesheet" href="{{ "assets/css/noscript.css" | absURL }}"/></noscript>
     <style>
         :root{--site-background : url("{{ .Params.background | default "images/bg.jpg" | absURL }}")};
-    </style> 
+    </style>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css"
+      integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+
+    <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
+      integrity="N6mLzetE4YKQnMHzJuCNB0lTIpEkjkGnTfTuZ/tmuxMRjuQHoDuF/MLxK7FVjmcM" crossorigin="anonymous" / -->
     <!-- Include the script that enables Netlify Identity on this page. -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <!--script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script -->
 </head>
