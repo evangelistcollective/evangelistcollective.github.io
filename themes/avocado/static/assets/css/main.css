@@ -1299,6 +1299,7 @@ input, select, textarea {
 		background-image: radial-gradient(rgba(0, 0, 0, 0.25) 25%, rgba(0, 0, 0, 0) 55%);
 		max-width: 100%;
 		text-align: center;
+    color: #ffffff;
 	}
 
 		#header > * {
@@ -1308,6 +1309,7 @@ input, select, textarea {
 			transition: opacity 0.325s ease-in-out;
 			position: relative;
 			margin-top: 3.5rem;
+      color: #ffffff;
 		}
 
 			#header > *:before {
@@ -1393,6 +1395,7 @@ input, select, textarea {
 			#header nav ul li {
 				padding-left: 0;
 				border-left: solid 1px #ffffff;
+        color: #ffffff;
 			}
 
 				#header nav ul li:first-child {
@@ -1575,6 +1578,7 @@ input, select, textarea {
 		position: relative;
 		max-width: 100%;
 		z-index: 3;
+    color: #ffffff;
 	}
 
 		#main article {
@@ -1707,6 +1711,7 @@ input, select, textarea {
 			opacity: 0.75;
 			margin-bottom: 0;
 			text-transform: uppercase;
+      color: #ffffff;
 		}
 
     #footer h3 {
@@ -1722,6 +1727,10 @@ input, select, textarea {
 			opacity: 0.75;
 			margin-bottom: 0;
 			text-transform: uppercase;
+    }
+
+    #footer a {
+      color: #ffffff;
     }
     #footer p{
     letter-spacing: 0.2rem;
@@ -1775,9 +1784,7 @@ input, select, textarea {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    /* color: #{{ site.color.primary }}; */
     background: rgb(94, 93, 93);
-    /* color: black; */
 }
 
 .btn:focus,
@@ -1802,21 +1809,20 @@ input, select, textarea {
 
   /* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
   border-radius: 30px 30px 30px 30px;
-  /* border-radius: 50px; */
-    margin-top: 15px;
-    border: solid 2px #fff;
-    font-size: 20px;
-    padding: 4px;
-    color: #fff;
-    background: 0 0;
-    transition: all .3s ease-in-out;
-    max-width: 80%;
-    align-self: center;
-    display: block;
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 20px;
-    -webkit-background-clip: padding-box;
+  margin-top: 15px;
+  border: solid 2px #fff;
+  font-size: 20px;
+  padding: 4px;
+  color: #fff;
+  background: 0 0;
+  transition: all .3s ease-in-out;
+  max-width: 80%;
+  align-self: center;
+  display: block;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 20px;
+  -webkit-background-clip: padding-box;
   -moz-background-clip:    padding;
   background-clip:         padding-box;
 }
@@ -1826,7 +1832,5 @@ input, select, textarea {
 .btn-cirlce:active,
 .btn-circle.active {
     border: solid 2px #fff;
-    /* color: #{{ site.color.primary }}; */
     background: rgb(94, 93, 93);
-    /* color: black; */
 }
