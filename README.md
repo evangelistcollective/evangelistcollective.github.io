@@ -14,5 +14,5 @@ TODO
 
 ## Credits
 
-We rock a [MIT License](https://opensource.org/licenses/MIT). The Hugo theme is TODO. TODO made the site.
+We rock a [MIT License](https://opensource.org/licenses/MIT). The Hugo theme is [Dimension](https://github.com/your-identity/hugo-theme-dimension/). [David Simmons](https://github.com/davidgs) made the site.
 
