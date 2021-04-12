@@ -640,8 +640,8 @@ input, select, textarea {
 		.icon > img {
 			display: inline-block;
 			vertical-align: middle;
-			max-width: 11rem;
-			max-height: 11rem;
+			max-width: 20rem;
+			max-height: 20rem;
 			width: auto;
 			height: auto;
 		}
@@ -1332,8 +1332,8 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 11rem;
-			height: 11rem;
+			width: 20rem;
+			height: 20rem;
 			line-height: 11rem;
 			border: solid 1px #ffffff;
 			border-radius: 100%;
@@ -1592,7 +1592,7 @@ input, select, textarea {
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
-			width: 40rem;
+			width: 80rem;
 			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
@@ -1608,6 +1608,9 @@ input, select, textarea {
 			}
 
       #main p {
+        letter-spacing: 0.2rem;
+				font-size: 1.5rem;
+				line-height: 1.5;
         color:rgb(223, 219, 219);
       }
 
