@@ -1830,3 +1830,43 @@ input, select, textarea {
     background: rgb(94, 93, 93);
     /* color: black; */
 }
+
+.netlify-badge {
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  bottom: 0px;
+  right: 300px;
+}
+
+		@media screen and (max-width: 1680px) {
+
+			.netlify-badge {
+        height: 60px;
+        width: 60px;
+        position: absolute;
+        bottom: 5px;
+        right: 35px;
+		}
+  }
+		@media screen and (max-width: 736px) {
+      .netlify-badge {
+        height: 50px;
+        width: 50px;
+        position: absolute;
+        bottom: -5px;
+        right: 10px;
+		}
+		}
+
+		@media screen and (max-width: 480px) {
+
+			.netlify-badge {
+        height: 40px;
+        width: 40px;
+        position: absolute;
+        bottom: -5px;
+        margin-top: 10px;;
+         right: 10px;
+		  }
+    }
