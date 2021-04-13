@@ -1838,3 +1838,11 @@ input, select, textarea {
     border: solid 2px #fff;
     background: rgb(94, 93, 93);
 }
+
+.netlify-badge {
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  bottom: 20px;
+  right: 350px;
+}
