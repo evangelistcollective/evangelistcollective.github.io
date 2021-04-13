@@ -734,8 +734,8 @@ input, select, textarea {
 			.image.main img {
         display: inline-block;
 			vertical-align: middle;
-			max-width: 11rem;
-			max-height: 11rem;
+			max-width: 20rem;
+			max-height: 20rem;
 			width: auto;
 			height: auto;
       align-self: center;
@@ -1788,6 +1788,7 @@ input, select, textarea {
 .btn-outline.active {
     border: solid 2px #fff;
     background: rgb(94, 93, 93);
+    color:#ffffff;
 }
 
 .btn:focus,
