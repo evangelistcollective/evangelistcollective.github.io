@@ -1837,6 +1837,7 @@ input, select, textarea {
 .btn-circle.active {
     border: solid 2px #fff;
     background: rgb(94, 93, 93);
+
 }
 
 .netlify-badge {
@@ -1846,6 +1847,7 @@ input, select, textarea {
   bottom: 0px;
   right: 300px;
 }
+
 
 @media screen and (max-width: 1680px) {
 	.netlify-badge {
